@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="295" height="400" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<g id="part_5" title="part_0" ie-ports="left:simulink,top:,right:simulink,bottom:">
+		<g id="Cylinder">
+			<path id="part_1" class="path" style="fill:#ffffff;" transform="matrix(0,1,-1,0,378.0299987793,83.0199890137)" d=" M -2.96,318.52 L 272.87,318.52 C 287.92,318.52 297.97,274.52 297.97,230.53 C 297.97,186.53 287.92,142.53 272.87,142.53 L -2.96,142.53 C 10.9,142.53 22.11,181.9 22.11,230.53 C 22.11,279.15 10.9,318.52 -2.96,318.52 Z"/>
+			<ellipse id="part_2" class="ellipse" transform="matrix(0,1,-1,0,227.5699996948,-67.4300003052)" cx="147.5" cy="80.07" rx="25.07" ry="88"/>
+		</g>
+		<g id="Cylinder_5">
+			<path id="part_3" class="path" style="fill: #00ffff;" transform="matrix(0,1,-1,0,431.1100006104,136.0900115967)" d=" M 50.12,371.58 L 228.65,371.58 C 238.39,371.58 244.9,327.6 244.9,283.6 C 244.9,239.6 238.39,195.62 228.65,195.62 L 50.12,195.62 C 59.1,195.62 66.35,234.99 66.35,283.6 C 66.35,332.21 59.1,371.58 50.12,371.58 Z"/>
+			<ellipse id="part_4" class="ellipse" style="fill:#00ffff;" transform="matrix(0,1,-1,0,333.7299957275,38.7100067139)" cx="147.51" cy="186.22" rx="16.23" ry="87.99"/>
+		</g>
+		<math id="equation" height="40" width="101.95" class="equation" style="font-size:30px; scalingFactors:0.7" x="98.71" y="272">
+			$$\mathrm{CO_2\;(d)}
+			$$		</math>
+		<math id="equation_6" height="48" width="58.44" class="equation" style="font-size:30px; scalingFactors:0.7" x="70.03" y="200">
+			$$\mathrm{CO^*_2}
+			$$		</math>
+		<line id="line" class="line ie-marker" data-start-params="scale:1x1;flipped:on" style="marker-start:url(#triangleFilled_c2NhbGU6MXgxO2ZsaXBwZWQ6b247);" x1="135.5" y1="213" x2="175.5" y2="270"/>
+		<math id="equation_7" height="40" width="101.95" class="equation" style="font-size:30px; scalingFactors:0.7" x="113.91" y="115">
+			$$\mathrm{CO_2\;(g)}
+			$$		</math>
+		<line id="line_8" class="line ie-marker" data-start-params="scale:1x1;flipped:on" style="marker-start:url(#triangleFilled_c2NhbGU6MXgxO2ZsaXBwZWQ6b247);" x1="155.5" y1="155" x2="135.5" y2="186.22"/>
+	</g>
+</svg>

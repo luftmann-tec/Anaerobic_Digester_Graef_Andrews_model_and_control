@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="141" height="400" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<g id="part" title="part_0" ie-ports="left:simulink*simulink*simulink*simulink*simulink,top:,right:simulink*simulink*simulink*simulink,bottom:">
+		<g id="Cylinder">
+			<path id="part_1" class="path" style="fill:#ffffff;" transform="matrix(0,1,-1,0,278.2500076294,137.2300033569)" d=" M -96.75,235.74 L 209.87,235.74 C 226.65,235.74 237.77,221.74 237.77,207.74 C 237.77,193.74 226.65,179.74 209.87,179.74 L -96.75,179.74 C -81.41,179.74 -69.02,192.27 -69.02,207.74 C -69.02,223.21 -81.41,235.74 -96.75,235.74 Z"/>
+			<ellipse id="part_2" class="ellipse" transform="matrix(0,1,-1,0,110.9249954224,-30.0849990845)" cx="70.5" cy="40.42" rx="27.86" ry="28"/>
+		</g>
+		<g id="Cylinder_5">
+			<path id="part_3" class="path" style="fill: #edb120;" transform="matrix(0,1,-1,0,328.0699996948,186.560005188)" d=" M -46.93,285.56 L 168.81,285.56 C 180.57,285.56 188.44,271.44 188.44,257.31 C 188.44,243.19 180.57,229.07 168.81,229.07 L -46.93,229.07 C -36.11,229.07 -27.33,241.7 -27.33,257.31 C -27.33,272.92 -36.11,285.56 -46.93,285.56 Z"/>
+			<ellipse id="part_4" class="ellipse" style="fill:#edb120;" transform="matrix(0,1,-1,0,210.3750076294,68.8550033569)" cx="70.76" cy="139.62" rx="19.62" ry="28.25"/>
+		</g>
+		<ellipse id="ellipse" class="ellipse" cx="65.5" cy="207" rx="5" ry="7"/>
+		<ellipse id="ellipse_6" class="ellipse" cx="84.5" cy="187" rx="5" ry="7"/>
+		<ellipse id="ellipse_7" class="ellipse" cx="58.5" cy="176" rx="5" ry="7"/>
+		<ellipse id="ellipse_8" class="ellipse" cx="89.5" cy="223" rx="5" ry="7"/>
+		<ellipse id="ellipse_9" class="ellipse" cx="58.5" cy="232" rx="5" ry="7"/>
+		<ellipse id="ellipse_10" class="ellipse" cx="75.5" cy="246" rx="5" ry="7"/>
+		<ellipse id="ellipse_63" class="ellipse" cx="62" cy="275" rx="3.5" ry="5"/>
+		<ellipse id="ellipse_64" class="ellipse" cx="84.5" cy="268" rx="3.5" ry="5"/>
+		<ellipse id="ellipse_65" class="ellipse" cx="75.5" cy="288" rx="3.5" ry="5"/>
+		<ellipse id="ellipse_66" class="ellipse" cx="88" cy="304" rx="3.5" ry="5"/>
+		<ellipse id="ellipse_67" class="ellipse" cx="67.26" cy="309" rx="3.5" ry="5"/>
+	</g>
+</svg>

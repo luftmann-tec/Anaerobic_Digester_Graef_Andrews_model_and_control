@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="300" height="100" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<g id="part_1" title="part_0" ie-ports="left:simulink,top:,right:simulink,bottom:">
+		<math id="equation" height="37" width="248.39" class="equation" style="font-size:20px; scalingFactors:0.7" x="17.04" y="33">
+			$$\mathrm{CO_2(d)+H_2O\Leftrightarrow\mathrm{HCO_3^-+H}^+
+			$$		</math>
+	</g>
+</svg>

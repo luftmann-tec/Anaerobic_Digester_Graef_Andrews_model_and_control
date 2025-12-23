@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="400" height="242" d:options="PreserveAspect:On;ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-s {
+				font-size: 34px; stroke-width: 0.85px;
+			}
+					</style>
+	</defs>
+	<g id="part_1" title="part_0" ie-ports="left:simulink*simulink,top:simulink*simulink,right:simulink*simulink,bottom:simulink*simulink*simulink">
+		<text id="text" class="text font-size-s" x="23" y="21">
+			<tspan dx="0" dy="31" x="23">Liquid</tspan>
+		</text>
+		<path id="Wave" class="path" style="stroke-width: 7;stroke:#268cdd;fill:#00ffff;" d=" M 61,108 Q 130.5,46 200,108 Q 269.5,170 339,108"/>
+		<path id="Wave_1" class="path" style="stroke-width: 7;stroke:#268cdd;fill:#00ffff;" d=" M 61,152 Q 130.5,90 200,152 Q 269.5,214 339,152"/>
+		<path id="Wave_2" class="path" style="stroke-width: 7;stroke:#268cdd;fill:#00ffff;" d=" M 61,199 Q 130.5,137 200,199 Q 269.5,261 339,199"/>
+	</g>
+</svg>

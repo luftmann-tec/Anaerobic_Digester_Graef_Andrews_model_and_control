@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="400" height="292" d:options="PreserveAspect:On;ScalingOnResizeMax:2;Rotate:Off;Resize:FitToBlock;">
+	<defs>
+		<style>
+			.font-size-default {
+				font-size: 29px; stroke-width: 0.72px;
+			}
+					</style>
+	</defs>
+	<g id="part" title="part_0" ie-ports="left:simulink*simulink,top:simulink*simulink*simulink,right:simulink,bottom:">
+		<g id="group">
+			<ellipse id="ellipse" class="ellipse" style="fill:#49db40;" cx="133.5" cy="127" rx="61.5" ry="40"/>
+			<line id="line" class="line" x1="88" y1="82" x2="99" y2="98"/>
+			<line id="line_5" class="line" x1="120" y1="73" x2="120" y2="90"/>
+			<line id="line_20" class="line" x1="149" y1="90" x2="158" y2="73"/>
+			<line id="line_38" class="line" x1="173" y1="98" x2="187" y2="81.5"/>
+			<line id="line_43" class="line" x1="60" y1="103" x2="78" y2="110"/>
+			<line id="line_58" class="line" x1="60" y1="146" x2="72" y2="137"/>
+			<line id="line_69" class="line" x1="78" y1="175" x2="93.5" y2="159"/>
+			<line id="line_80" class="line" x1="112" y1="167" x2="120" y2="186"/>
+			<line id="line_86" class="line" x1="133.5" y1="167" x2="133.5" y2="186"/>
+			<line id="line_104" class="line" x1="158" y1="163" x2="149" y2="182"/>
+			<line id="line_116" class="line" x1="173" y1="159" x2="187" y2="172.5"/>
+			<line id="line_124" class="line" x1="187" y1="146" x2="202" y2="165.75"/>
+			<line id="line_131" class="line" x1="194.5" y1="127" x2="218" y2="106.5"/>
+			<line id="line_141" class="line" x1="187" y1="106.5" x2="206.25" y2="98"/>
+			<ellipse id="ellipse_162" class="ellipse" style="fill:#268cdd;" cx="129.75" cy="123.99" rx="17.75" ry="17.5"/>
+		</g>
+		<g id="Cylinder">
+			<path id="part_1" class="path" style="fill: #c05cfb;stroke-width: 1;stroke-dasharray:12px, 3px, 1px, 3px;" transform="matrix(0.5299192641,-0.8480480962,0.8480480962,0.5299192641,31.976883013,283.9805638882)" d=" M 223.68,129.14 L 312.51,129.14 C 317.36,129.14 320.6,121.14 320.6,113.14 C 320.6,105.14 317.36,97.14 312.51,97.14 L 223.68,97.14 C 228.14,97.14 231.75,104.3 231.75,113.14 C 231.75,121.98 228.14,129.14 223.68,129.14 Z"/>
+			<ellipse id="part_2" class="ellipse" style="stroke-width: 1;stroke-dasharray:12px, 3px, 1px, 3px;fill:#c05cfb;" transform="matrix(0.5299192641,-0.8480480962,0.8480480962,0.5299192641,-14.9491944156,281.5109503581)" cx="246.45" cy="154.24" rx="8.07" ry="16"/>
+		</g>
+		<line id="line_177" class="line" x1="272.63" y1="146" x2="283" y2="160.5"/>
+		<line id="line_190" class="line" x1="246.95" y1="104.75" x2="254" y2="115"/>
+		<line id="line_197" class="line" x1="265.18" y1="94.5" x2="265.18" y2="77.25"/>
+		<line id="line_221" class="line" x1="294" y1="111.57" x2="320" y2="104.75"/>
+		<line id="line_226" class="line" x1="283" y1="129" x2="294" y2="141.78"/>
+		<line id="line_233" class="line" x1="294" y1="59" x2="294" y2="69"/>
+		<line id="line_242" class="line" x1="300.5" y1="73.5" x2="313.5" y2="65.5"/>
+		<line id="line_252" class="line" x1="240" y1="157.75" x2="232.72" y2="164.5"/>
+		<line id="line_262" class="line" x1="250.47" y1="161.13" x2="250.47" y2="178"/>
+		<text id="text" class="text font-size-default" x="21" y="19">
+			<tspan dx="0" dy="26" x="21">Biological</tspan>
+		</text>
+		<path id="Wave" class="path" style="stroke-width: 8;stroke:#ff0000;stroke-dasharray:6px, 3px, 1px, 3px;" transform="matrix(0.6946583705,-0.7193398003,0.7193398003,0.6946583705,-47.6258597602,283.0779409124)" d=" M 239.63,197.64 Q 274.63,139.24 309.63,197.64 Q 344.63,256.04 379.63,197.64"/>
+		<ellipse id="ellipse_276" class="ellipse" style="fill:#f57729;" transform="matrix(0.8090169944,0.5877852523,-0.5877852523,0.8090169944,176.216159366,-54.337572665)" cx="171.73" cy="244" rx="55.72" ry="25"/>
+		<ellipse id="ellipse_292" class="ellipse" style="fill:#49db40;" cx="164.5" cy="240.5" rx="15.5" ry="12.5"/>
+		<line id="line_298" class="line" x1="116" y1="253" x2="133.5" y2="240.5"/>
+		<line id="line_308" class="line" x1="145.14" y1="253" x2="124.75" y2="268.28"/>
+		<path id="Wave_309" class="path" d=" M 180,219.5 Q 186.49,202.5 192.98,219.5 Q 199.47,236.5 205.96,219.5"/>
+		<path id="Wave_310" class="path" d=" M 219.14,275.39 Q 233.81,261.17 248.48,275.39 Q 263.15,289.6 277.82,275.39"/>
+		<line id="line_321" class="line" x1="164.5" y1="196.49" x2="164.5" y2="211"/>
+		<line id="line_330" class="line" x1="206.25" y1="244" x2="225" y2="219"/>
+		<line id="line_338" class="line" x1="99" y1="219" x2="124.75" y2="219"/>
+		<path id="Wave_339" class="path" transform="matrix(0.4694715628,-0.8829475929,0.8829475929,0.4694715628,-161.0606249579,284.2154262923)" d=" M 144.74,276.13 Q 150.36,252.41 155.98,276.13 Q 161.6,299.85 167.22,276.13"/>
+	</g>
+</svg>

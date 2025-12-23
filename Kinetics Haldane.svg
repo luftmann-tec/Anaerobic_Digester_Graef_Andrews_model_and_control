@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:d="http://www.mathworks.com/blockgraphics" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg" width="256" height="92" d:options="ScalingOnResizeMax:2.0;Rotate:Off;Resize:FitToBlock;">
+	<g id="part_1" title="part_0" ie-ports="left:simulink,top:,right:simulink,bottom:">
+		<math id="equation" height="60.78" width="189.67" class="equation" style="font-size:23px; scalingFactors:0.7" x="0" y="8.71">
+			$$\mu=\frac{\mu_\max}{1+K_S/u+u/K_i}
+			$$		</math>
+	</g>
+</svg>
