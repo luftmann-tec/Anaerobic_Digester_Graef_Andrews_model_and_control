@@ -1,6 +1,7 @@
 # Anaerobic Digester – Graef and Andrews Model (Simulink)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=luftmann-tec/Anaerobic_Digester_Graef_Andrews_model_and_control)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18041383.svg)](https://doi.org/10.5281/zenodo.18041383)
 
 ## Author
 
